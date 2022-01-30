@@ -11,6 +11,12 @@ gives maximum facility to the blogger to add images in between the blog, custom 
 insert tables, insert emotes, text highlighter,etc.
 
 
+## DEMO
+
+[![Demo](https://img.youtube.com/vi/UQYrLCLS2bY/0.jpg)](https://www.youtube.com/watch?v=UQYrLCLS2bY)
+
+
+
 ## Deployment
 
 To deploy this project on localhost run
@@ -38,13 +44,6 @@ python3 manage.py makemigrations
 python3 manage.py migrate
 
 ```
-
-
-
-## DEMO
-
-[![Demo] (https://img.youtube.com/vi/UQYrLCLS2bY/0.jpg)](https://www.youtube.com/watch?v=UQYrLCLS2bY)
-
 
 
 ## Authors
