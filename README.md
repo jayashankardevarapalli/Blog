@@ -28,9 +28,6 @@ The default web server runs on port ```8000```.If you want to change the port nu
 run:
 ```
 python3 manage.py runserver <port number>
-
-```
-```
 Ex: python3 manage.py runserver 1234
 
 ```
@@ -46,11 +43,11 @@ python3 manage.py migrate
 ```
 
 
-## Authors
+## Author:
 
 Hi, I am D.Jaya Shankar Kumar, I am web developer, Penetration Tester and Bug Bounty Hunter.
 
-### Contact me:
+### Social Media:
 - [@linkedin](https://www.linkedin.com/in/devarapalli-jaya-shankar-kumar-530464230/)
 - [@twitter](https://twitter.com/MrJayashankar)
 
