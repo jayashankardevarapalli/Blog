@@ -44,6 +44,6 @@ python3 manage.py migrate
 
 
    ### Social Media:
-- [@twitter](https://twitter.com/MrJayashankar)  [@linkedin](https://www.linkedin.com/in/devarapalli-jaya-shankar-kumar-530464230/)
+   [@twitter](https://twitter.com/MrJayashankar)  [@linkedin](https://www.linkedin.com/in/devarapalli-jaya-shankar-kumar-530464230/)
 
 
