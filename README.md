@@ -43,10 +43,6 @@ python3 manage.py migrate
 ```
 
 
-## Author:
-
-Hi, I am D.Jaya Shankar Kumar, I am web developer, Penetration Tester and Bug Bounty Hunter.
-
 ### Social Media:
 - [@linkedin](https://www.linkedin.com/in/devarapalli-jaya-shankar-kumar-530464230/)
 - [@twitter](https://twitter.com/MrJayashankar)
