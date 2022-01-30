@@ -1,0 +1,50 @@
+.bg-primary{
+	background: #1a73e8!important;
+}
+
+label.custom-control-label{color: white;}
+
+.about{
+  width: 100%;
+  padding: 78px 0px;
+  background-color: white;
+}
+
+.about img{
+  height: auto;
+  width: 420px;
+}
+
+.about-text{
+  width: 570px;
+}
+
+.main{
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.about-text h1{
+  font-size: 60px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.about-text p{
+  color: gray;
+  font-size: 18;
+  letter-spacing: 1px;
+  line-height: 28px;
+  margin-bottom: 45px;
+}
+
+.Social-media{
+  text-decoration: none;
+  margin: 0 10px;
+  font-size: 40px;
+  align-items: right;
+}

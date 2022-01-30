@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+
+{% block title %} Categories {% endblock %}
+
+
+{% block content %}
+
+<div class="container-custom">
+	<br>
+	<h1 align="center">{{cat.title}}</h1>
+	<br>
+	<p align="center">{{cat.content}}</p>
+	<br>
+	<hr>
+	<br>
+	<div class="container">
+		<div class="row">
+			{% for b in blogs %}
+			<div class="col-md-4">
+				<h2> {{ b.title | safe }} </h2>
+				<p> {{ b.content | truncatewords:30 | safe }}</p>
+				<p><a class="btn btn-primary btn-lg" href="/blog/{{b.url}}" role="button">View details &raquo;</a></p>
+			</div>
+			{% endfor %}
+		</div>
+	</div>
+</div>
+{% endblock %}
