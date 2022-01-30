@@ -41,9 +41,9 @@ python3 manage.py migrate
 
 
 
-## Screenshots
+## DEMO
 
-![HomePage] (/Screenshots/HomePage.png)
+[![Demo] (https://img.youtube.com/vi/UQYrLCLS2bY/0.jpg)](https://www.youtube.com/watch?v=UQYrLCLS2bY)
 
 
 
