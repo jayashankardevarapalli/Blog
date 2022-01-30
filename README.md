@@ -48,7 +48,7 @@ python3 manage.py migrate
 
 ## Screenshots
 
-![HomePage] (/home/mrj/Projects/Blog/Screenshots/HomePage.png)
+![HomePage] (Blog/Screenshots/HomePage.png)
 
 
 
