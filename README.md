@@ -16,6 +16,7 @@ insert tables, insert emotes, text highlighter,etc.
 To deploy this project on localhost run
 
 ```bash
+    source env/bin/activate
     python3 manage.py runserver
 ```
 The default web server runs on port ```8000```.If you want to change the port number
