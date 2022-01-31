@@ -10,8 +10,9 @@ This default editor in the admin panel has been changed to ```Ck Editor``` which
 gives maximum facility to the blogger to add images in between the blog, custom headers
 insert tables, insert emotes, text highlighter,etc.
 
-```Default Admin User ID: Admin
-   Default Admin Password: admin
+```
+Default Admin User ID: Admin
+Default Admin Password: admin
 ```
 
 
