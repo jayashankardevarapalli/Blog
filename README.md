@@ -10,6 +10,11 @@ This default editor in the admin panel has been changed to ```Ck Editor``` which
 gives maximum facility to the blogger to add images in between the blog, custom headers
 insert tables, insert emotes, text highlighter,etc.
 
+```
+Default Admin User ID: Admin
+Default Admin Password: admin
+```
+
 
 ## DEMO
 
@@ -28,9 +33,6 @@ The default web server runs on port ```8000```.If you want to change the port nu
 run:
 ```
 python3 manage.py runserver <port number>
-
-```
-```
 Ex: python3 manage.py runserver 1234
 
 ```
@@ -46,11 +48,7 @@ python3 manage.py migrate
 ```
 
 
-## Authors
+   ### Social Media:
+   [@twitter](https://twitter.com/MrJayashankar)  [@linkedin](https://www.linkedin.com/in/devarapalli-jaya-shankar-kumar-530464230/)
 
-Hi, I am D.Jaya Shankar Kumar, I am web developer, Penetration Tester and Bug Bounty Hunter.
-
-### Contact me:
-- [@linkedin](https://www.linkedin.com/in/devarapalli-jaya-shankar-kumar-530464230/)
-- [@twitter](https://twitter.com/MrJayashankar)
 
