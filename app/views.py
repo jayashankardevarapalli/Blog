@@ -15,16 +15,31 @@ def index(request):
 
 def post(request, url):
 	post = Blog.objects.get(url=url)
-	return render(request, 'blogs.html', {'post': post})
+	cats = Category.objects.all()
+	data = {
+		'post': post,
+		'cats': cats		
+	}
+	return render(request, 'blogs.html', data)
 
 def category(request, url):
 	cat = Category.objects.get(url=url)
 	blogs = Blog.objects.filter(cat=cat)
+	cats = Category.objects.all()
+
 	data = {
-		'cat': cat,
-		'blogs': blogs
+		'blogs': blogs,
+		'cats': cats,
+		'cat': cat	
 	}
 	return render(request, 'category.html', data)
 
 def about(request):
-	return render(request, 'about.html')
+	blogs = Blog.objects.all()[:11]
+	cats = Category.objects.all()
+
+	data = {
+		'blogs': blogs,
+		'cats': cats		
+	}
+	return render(request, 'about.html', data)
