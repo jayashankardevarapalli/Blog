@@ -18,6 +18,8 @@ Default Admin Password: admin
 
 ## DEMO
 
+Click to watch the project useage!!!
+
 [![Demo](https://img.youtube.com/vi/UQYrLCLS2bY/0.jpg)](https://www.youtube.com/watch?v=UQYrLCLS2bY)
 
 
